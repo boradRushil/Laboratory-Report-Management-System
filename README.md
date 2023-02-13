@@ -3,12 +3,12 @@
 The project aimed to resolve the problem of laboratory records data theft containing sensitive patient information with the use of blockchain's immutability.
 
 ## Tech Stack
->Polygon chain\
->IPFS \
->FastAPI\
->NextJS \
->MongoDB\
->Web3 
+> - Polygon chain
+- > IPFS 
+- > FastAPI
+- >NextJS 
+- >MongoDB
+- >Web3 
 
 
 
