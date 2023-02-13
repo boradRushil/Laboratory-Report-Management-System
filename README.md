@@ -1,8 +1,12 @@
 #  Laboratory-Report-Management-System
 
-**Lab-Report management System - A Blockchain based system for sharing of patients medical reports.**   
-The project aimed to resolve the problem of laboratory records data theft containing sensitive patient information with the use of blockchain's immutability.
+**A Blockchain based system for sharing of patients medical reports.** 
 
+*The project aimed to resolve the problem of laboratory records data theft containing sensitive patient information with the use of blockchain's immutability.*
+
+### Problem Statement:
+There is an increase in the forging of medical reports and data leaks by third-party intervention. This encourages falsifying claims, failure to maintain proper medical records, waiving cost-shares, improper billing practices, and other healthcare frauds. 
+Also, the data & its privacy is not secured between the patient and the respective doctors across the hospitals in India which leads to many healthcare abuses.
 
 ## Tech Stack
 > - Polygon chain
