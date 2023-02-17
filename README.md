@@ -43,9 +43,10 @@ Also, the data & its privacy is not secured between the patient and the respecti
 
 > __Course__: *CSE 542- Introduction to Blockchain: Technologies Approaches and Applications* 
 - Rushil Borad - AU1940179
+- Vraj Parikh - AU1940185
 - Dhruv Kabariya - AU1940188  
-- Poojan Sheth - AU1940185
-- Vraj Parikh - AU1940179
+- Poojan Sheth - AU1940282
+
 
 ## Mentor :
 - [Professor Sanjay Chaudhary](https://ahduni.edu.in/academics/schools-centres/school-of-engineering-and-applied-science/people-1/sanjay-chaudhary/)
